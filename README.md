@@ -252,7 +252,7 @@ O projeto inclui uma página web com:
 
 **Fábio Luiz de Oliveira**  
 📧 fabioluol@hotmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/fabioluol/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/fabio-luiz-de-oliveira)  
 🌐 [Portfólio Completo](https://portfolio-analista-dados-azure.vercel.app)
 
 ---
